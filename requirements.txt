@@ -1,0 +1,7 @@
+jupyterlab
+tensorflow==1.4
+tensorflow-gpu==1.4
+keras
+nmslib
+pillow
+matplotlib
